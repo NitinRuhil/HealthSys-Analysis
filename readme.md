@@ -58,4 +58,4 @@ This repository documents the analysis, design, and planning stages of a system 
 
 ## Author
 
-Prepared and maintained by **Nitin Ruhil**.
+Prepared and maintained by **Nitin Ruhil and team**.
